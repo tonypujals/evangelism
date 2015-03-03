@@ -3,7 +3,7 @@
 How to get involved!
 --------------------
 
-There are lots of ways to contribute to [io.js](https://github.com/iojs). If you are interested in contribution to io.js evangelism specifically, feel free to join in the conversations, help with [issues](https://github.com/iojs/evangelism/issues), and share the [roadmap](https://github.com/iojs/roadmap/). You don't have to be a member of the Working Group to pitch in!
+There are lots of ways to contribute to [io.js](https://github.com/iojs). If you are interested in contributing to io.js evangelism specifically, feel free to join in the conversations, help with [issues](https://github.com/iojs/evangelism/issues), and share the [roadmap](https://github.com/iojs/roadmap/). You don't have to be a member of the Working Group to pitch in!
 
 Join the conversation!
 
